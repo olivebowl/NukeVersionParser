@@ -1,16 +1,4 @@
 {
-    "18": {
-        "18.0v1": {
-            "installer": {
-                "mac_arm": "https://thefoundry.s3.amazonaws.com/products/nuke/releases/18.0v1/Nuke18.0v1-mac-arm64.dmg",
-                "mac_x86_64": null,
-                "linux_x86_64": "https://thefoundry.s3.amazonaws.com/products/nuke/releases/18.0v1/Nuke18.0v1-linux-x86_64.tgz",
-                "windows_x86_64": "https://thefoundry.s3.amazonaws.com/products/nuke/releases/18.0v1/Nuke18.0v1-win-x86_64.zip"
-            },
-            "date": "Sat, 21 Nov 2026 08:17:01 GMT",
-            "supported": true
-        }
-    },
     "17": {
         "17.0v3": {
             "installer": {
